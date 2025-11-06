@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ariful Islam Arif<br><br>🚀 Flutter Developer | Mobile App Development | passionate about building responsive, user‑friendly applications<br><br>💻 Skilled in Flutter, Dart, and state management (GetX, Provider)<br><br>🔗 Experienced with REST API integration, JSON handling, and backend connectivity<br><br>🎨 Focused on clean UI/UX design and delivering smooth cross‑platform experiences (Android & iOS)<br><br>🤝 Collaborative mindset with a passion for teamwork, knowledge‑sharing, and continuous improvement<br><br>📚 Always eager to learn, adapt, and contribute to impactful mobile solutions
+👋 Hi, I’m Ariful Islam Arif<br><br>🚀 Flutter Developer | Mobile App Development | passionate about building responsive, user‑friendly applications<br><br>💻 Skilled in Flutter, Dart<br><br>🔗 Experienced with REST API integration, JSON handling, and backend connectivity<br><br>🎨 Focused on clean UI/UX design and delivering smooth cross‑platform experiences (Android & iOS)<br><br>🤝 Collaborative mindset with a passion for teamwork, knowledge‑sharing, and continuous improvement<br><br>📚 Always eager to learn, adapt, and contribute to impactful mobile solutions
 
 
 ## 🌐 Socials:
